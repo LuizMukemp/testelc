@@ -1,0 +1,12 @@
+
+nome:Ana
+prof:Diretora
+
+nome:Sandra
+prof:Professora
+
+nome:Paul
+prof:Arquiteto
+
+:wq
+
