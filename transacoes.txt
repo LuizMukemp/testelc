@@ -1,0 +1,3 @@
+comida-500
+transp-1000
+compras-3000
