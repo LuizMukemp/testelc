@@ -1,0 +1,8 @@
+nome:Ana
+esp:cuck,disc
+
+nome:Lynda
+esp:chin,chi,var
+
+nome:Shirley
+esp:palm,chi,var
